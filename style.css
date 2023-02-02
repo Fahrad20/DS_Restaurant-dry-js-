@@ -1,0 +1,7 @@
+* { margin: 0; padding: 0; outline: 0; box-sizing: border-box; user-select: none; }
+@font-face { font-family: RobotoRegular; src: url(font/RobotoRegular.ttf); }
+@font-face { font-family: RobotoThin; src: url(font/RobotoThin.ttf); }
+@font-face { font-family: RobotoLight; src: url(font/RobotoLight.ttf); } 
+@font-face { font-family: RobotoMedium; src: url(font/RobotoMedium.ttf); } 
+
+
